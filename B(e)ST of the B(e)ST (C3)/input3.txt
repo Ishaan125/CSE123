@@ -1,0 +1,8 @@
+5.0 12000000 2006 Nintendo Zelda Adventure
+5.0 8000000 2011 Nintendo Mario Party
+5.0 12000000 2006 Nintendo Zelda Adventure_Remake
+4.9 9000000 2017 CDProject Witcher RPG
+0.0 0 1990 Unknown Unknown Unknown
+3.7 450000 2012 Valve Portal Puzzle
+4.2 600000 2010 EA Mass_Effect RPG
+2.5 10000 2024 Indie New_Game Experimental

@@ -1,0 +1,6 @@
+5.0 12000000 2006 Nintendo Zelda Adventure
+4.8 8000000 2013 Rockstar Grand_Theft_Auto Action
+4.5 3000000 2015 Blizzard Overwatch Shooter
+3.2 50000 2020 Devolver Hotline_Miami Shooter
+4.0 250000 2014 Thatgamecompany Journey Adventure
+4.9 9000000 2017 CDProject Witcher RPG
